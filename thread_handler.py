@@ -2,7 +2,7 @@ import threading
 #import time
 
 class thread_handler:
-    """A handler for threads and threading for Python 2."""
+    """A handler for threads and threading for Python 2 and 3."""
 
     def __init__(self):
         """Initialize handler with no threads."""
