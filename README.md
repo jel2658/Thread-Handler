@@ -5,6 +5,8 @@ The class name is thread_handler. To instantiate an object of this class, use
 "thread_handler_name = thread_handler". The handler cannot have multiple threads
 with the same function/name.
 
+Testing is included in the file, but commented out. Additional tests are welcome.
+
 ## Methods
 
 ### thread_handler.start(function name, args)
